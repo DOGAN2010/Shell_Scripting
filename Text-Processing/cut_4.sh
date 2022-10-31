@@ -20,6 +20,9 @@
 #Hell
 #Worl
 #how
+
+# SOLUTION:
+
 #!/bin/bash
 while read input; do
   echo "$input" | cut -c1-4

@@ -16,7 +16,10 @@
 # .
 # .
 # 50
+
 # SOLUTION:
+
+
 #!/bin/bash
 number=1
 while [[ $number -lt 51 ]]

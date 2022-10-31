@@ -27,6 +27,8 @@
 #orld
 #ow are
 
+# SOLUTION:
+
 #!/bin/bash
 while read input; do
     echo "$input" | cut -c2-7

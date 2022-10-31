@@ -22,7 +22,10 @@
 # Sample Output 1
 
 # Welcome Prashant
+
 # SOLUTION:
+
+
 #!/bin/bash
 read -p "Enter Name: " name
 echo -e "Welcome $name"

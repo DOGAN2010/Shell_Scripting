@@ -29,7 +29,10 @@
 # 5 - 2 = 3
 # 5 * 2 = 10
 # 5 / 2 = 2 (Integer part)
-$!/bin/bash
+
+# SOLUTION:
+
+#!/bin/bash
 read -p "first number: " first
 read -p "second number: " second
 echo "SUM= " `expr $first + $second`

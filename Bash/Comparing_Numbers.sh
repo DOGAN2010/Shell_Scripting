@@ -45,7 +45,9 @@
 
 # X is less than Y  
 
-$!/bin/bash
+# SOLUTION:
+
+#!/bin/bash
 read -p "first number: " x
 read -p "second number: " y
 if [[ x]]

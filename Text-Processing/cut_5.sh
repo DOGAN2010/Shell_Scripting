@@ -28,4 +28,7 @@
 #4   Houston, Texas  2,145,146
 #5   Philadelphia, Pennsylvania[11]  1,536,471
 
+# SOLUTION:
+
+#!/bin/bash
 cut -f -3
