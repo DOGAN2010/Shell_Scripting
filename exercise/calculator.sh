@@ -1,4 +1,5 @@
 #!/bin/bash
+
 read -p "First mumber : " first_number
 read -p "seconder number : " second_number
 
@@ -17,6 +18,7 @@ echo "SUM=$sum"
 echo "SUB=$sub"
 echo "MUL=$mul"
 echo "DIV=$div"
+
 
 let first_number++
 let second_number--
